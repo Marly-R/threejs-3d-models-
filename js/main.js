@@ -12,12 +12,13 @@ import * as THREE from 'three';
 			let mixer;
 
 			const params = {
-				asset: 'Samba Dancing'
+				asset: 'Samba Dancing',
+				asset: 'Breakdance Freeze Var 2'
 			};
 
 			const assets = [
 				'Samba Dancing',
-				'morph_test'
+				'Breakdance Freeze Var 2'
 			];
 
 
